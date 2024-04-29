@@ -1,0 +1,4 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/as3mbus/public-writing
+	shallow = true
